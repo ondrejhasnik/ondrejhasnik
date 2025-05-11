@@ -8,7 +8,7 @@
 
 ## My Skills
 
-![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,py,pycharm,anaconda,pytorch,tensorflow,sklearn,postgres,git,latex,md,html,css,js,ts,react,vscode,github,gitlab,docker,obsidian&perline=10)
+![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,py,pycharm,anaconda,pytorch,tensorflow,sklearn,flask,django,postgres,git,latex,bash,md,html,css,js,ts,react,vscode,github,gitlab,docker,obsidian&perline=10)
 
 ## Statistics
 
