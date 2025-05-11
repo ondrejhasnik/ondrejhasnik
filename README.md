@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @ondrejhasnik
+# Hello! I am Ondřej Hasník
+
+
 - 👀 I’m interested in chemistry and programming
 - 🌱 I’m currently learning NumPy, Pandas, SciPy and Matplotlib
 - 💞️ I’m looking to collaborate on ChemSoftware projects
