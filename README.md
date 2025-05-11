@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on ChemSoftware projects
 - 📫 How to reach me on Facebook
 
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,python,pycharm,anaconda,github&perline=10)]
