@@ -1,10 +1,6 @@
 # Hello! I am Ondřej Hasník
 
-
-- 👀 I’m interested in chemistry and programming
-- 🌱 I’m currently learning NumPy, Pandas, SciPy and Matplotlib
-- 💞️ I’m looking to collaborate on ChemSoftware projects
-- 📫 How to reach me on Facebook
+Student of Chemistry at the University of Chemistry and Technology Prague with interest in organic chemistry, biochemistry, pharmaceutical chemistry and computational chemistry. I mainly focus on calculations in quantum chemical program ORCA and programming in Python. I am also a big fan of Linux.
 
 ## My Skills
 
