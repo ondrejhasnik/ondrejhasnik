@@ -8,7 +8,6 @@ Student of Chemistry at the University of Chemistry and Technology Prague with i
 
 ## Statistics
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=ondrejhasnik&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ondrejhasnik&layout=compact&langs_count=8)
 
 ## Social
