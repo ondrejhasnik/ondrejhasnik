@@ -12,10 +12,14 @@ Student of Chemistry at the University of Chemistry and Technology Prague with i
 
 ## Social
 
-![Linkedin](https://github.com/CLorant/readme-social-icons/blob/main/small/colored/linkedin.svg) [https://www.linkedin.com/in/ondrejhasnik/](https://www.linkedin.com/in/ondrejhasnik/)
+![Linkedin](https://github.com/CLorant/readme-social-icons/blob/main/small/colored/linkedin.svg) [https://www.linkedin.com/in/ondrejhasnik/](https://linkedin.com/in/ondrejhasnik/)
 
-![Facebook](https://github.com/CLorant/readme-social-icons/blob/main/small/colored/facebook.svg) [https://www.facebook.com/ondrejhasnik/](https://www.facebook.com/ondrejhasnik/)
+![Facebook](https://github.com/CLorant/readme-social-icons/blob/main/small/colored/facebook.svg) [https://www.facebook.com/ondrejhasnik/](https://facebook.com/ondrejhasnik/)
 
-![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/small/colored/instagram.svg) [https://www.instagram.com/ondrejhasnik/](https://www.instagram.com/ondrejhasnik/)
+![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/small/colored/instagram.svg) [https://www.instagram.com/ondrejhasnik/](https://instagram.com/ondrejhasnik/)
 
 ![X](https://github.com/CLorant/readme-social-icons/blob/main/small/colored/twitter-x.svg) [https://x.com/ondrejhasnik/](https://x.com/ondrejhasnik/)
+
+![Discord](https://github.com/CLorant/readme-social-icons/blob/main/small/colored/discord.svg) [ondrejhasnik](https://discord.com/)
+
+![Reddit](https://github.com/CLorant/readme-social-icons/blob/main/small/colored/reddit.svg) [https://reddit.com/user/ondrejhasnik/](https://reddit.com/user/ondrejhasnik/)
