@@ -1,4 +1,4 @@
-# Hello! I am Ondřej Hasník
+ # Hello! I am Ondřej Hasník
 
 Student of Chemistry at the University of Chemistry and Technology Prague with interest in organic chemistry, biochemistry, pharmaceutical chemistry and computational chemistry. I mainly focus on calculations in quantum chemical program ORCA and programming in Python. I am also a big fan of Linux.
 
@@ -12,6 +12,9 @@ Student of Chemistry at the University of Chemistry and Technology Prague with i
 
 ## Social
 
+
+![GitHub](https://github.com/CLorant/readme-social-icons/blob/main/small/colored/github.svg) [https://github.com/ondrejhasnik/](https://github.com/ondrejhasnik/)
+
 ![Linkedin](https://github.com/CLorant/readme-social-icons/blob/main/small/colored/linkedin.svg) [https://www.linkedin.com/in/ondrejhasnik/](https://linkedin.com/in/ondrejhasnik/)
 
 ![Facebook](https://github.com/CLorant/readme-social-icons/blob/main/small/colored/facebook.svg) [https://www.facebook.com/ondrejhasnik/](https://facebook.com/ondrejhasnik/)
@@ -23,3 +26,5 @@ Student of Chemistry at the University of Chemistry and Technology Prague with i
 ![Discord](https://github.com/CLorant/readme-social-icons/blob/main/small/colored/discord.svg) [ondrejhasnik](https://discord.com/)
 
 ![Reddit](https://github.com/CLorant/readme-social-icons/blob/main/small/colored/reddit.svg) [https://reddit.com/user/ondrejhasnik/](https://reddit.com/user/ondrejhasnik/)
+
+![GitLab](https://github.com/CLorant/readme-social-icons/blob/main/small/colored/gitlab.svg) [https://gitlab.com/ondrejhasnik/](https://gitlab.com/ondrejhasnik/)
