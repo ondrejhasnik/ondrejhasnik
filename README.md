@@ -28,3 +28,7 @@ Student of Chemistry at the University of Chemistry and Technology Prague with i
 ![Reddit](https://github.com/CLorant/readme-social-icons/blob/main/small/colored/reddit.svg) [https://reddit.com/user/ondrejhasnik/](https://reddit.com/user/ondrejhasnik/)
 
 ![GitLab](https://github.com/CLorant/readme-social-icons/blob/main/small/colored/gitlab.svg) [https://gitlab.com/ondrejhasnik/](https://gitlab.com/ondrejhasnik/)
+
+## Membership
+
+![OSI](https://opensource.org/wp-content/uploads/2009/06/OSI_Standard_Logo_300X390.png)
