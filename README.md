@@ -31,4 +31,4 @@ Student of Chemistry at the University of Chemistry and Technology Prague with i
 
 ## Membership
 
-![OSI](https://opensource.org/wp-content/uploads/2009/06/OSI_Standard_Logo_300X390.png)
+![OSI](https://opensource.org/wp-content/uploads/2009/06/OSI_Standard_Logo_100X130.png)
