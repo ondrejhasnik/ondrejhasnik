@@ -29,6 +29,6 @@ Student of Chemistry at the University of Chemistry and Technology Prague with i
 
 ![GitLab](https://github.com/CLorant/readme-social-icons/blob/main/small/colored/gitlab.svg) [https://gitlab.com/ondrejhasnik/](https://gitlab.com/ondrejhasnik/)
 
-## Membership
+## Memberships
 
 ![OSI](https://opensource.org/wp-content/uploads/2009/06/OSI_Standard_Logo_100X130.png)
